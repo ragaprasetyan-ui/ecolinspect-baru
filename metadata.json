@@ -1,0 +1,8 @@
+{
+  "name": "EcoInspect Pro Active",
+  "description": "Sistem Pengawasan Lingkungan Hidup Digital untuk pengisian checklist formulir 6A hingga 6G secara profesional dan terorganisir.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
